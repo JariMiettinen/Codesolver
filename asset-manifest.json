@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Codesolver/static/css/main.9f574ee2.chunk.css",
-    "main.js": "/Codesolver/static/js/main.e2ec7503.chunk.js",
-    "main.js.map": "/Codesolver/static/js/main.e2ec7503.chunk.js.map",
+    "main.css": "/Codesolver/static/css/main.1f0ebcb3.chunk.css",
+    "main.js": "/Codesolver/static/js/main.2420ede0.chunk.js",
+    "main.js.map": "/Codesolver/static/js/main.2420ede0.chunk.js.map",
     "runtime-main.js": "/Codesolver/static/js/runtime-main.d1dd7d1a.js",
     "runtime-main.js.map": "/Codesolver/static/js/runtime-main.d1dd7d1a.js.map",
-    "static/js/2.8fbbbf9e.chunk.js": "/Codesolver/static/js/2.8fbbbf9e.chunk.js",
-    "static/js/2.8fbbbf9e.chunk.js.map": "/Codesolver/static/js/2.8fbbbf9e.chunk.js.map",
+    "static/js/2.bd29f870.chunk.js": "/Codesolver/static/js/2.bd29f870.chunk.js",
+    "static/js/2.bd29f870.chunk.js.map": "/Codesolver/static/js/2.bd29f870.chunk.js.map",
     "index.html": "/Codesolver/index.html",
-    "static/css/main.9f574ee2.chunk.css.map": "/Codesolver/static/css/main.9f574ee2.chunk.css.map",
-    "static/js/2.8fbbbf9e.chunk.js.LICENSE.txt": "/Codesolver/static/js/2.8fbbbf9e.chunk.js.LICENSE.txt"
+    "static/css/main.1f0ebcb3.chunk.css.map": "/Codesolver/static/css/main.1f0ebcb3.chunk.css.map",
+    "static/js/2.bd29f870.chunk.js.LICENSE.txt": "/Codesolver/static/js/2.bd29f870.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1dd7d1a.js",
-    "static/js/2.8fbbbf9e.chunk.js",
-    "static/css/main.9f574ee2.chunk.css",
-    "static/js/main.e2ec7503.chunk.js"
+    "static/js/2.bd29f870.chunk.js",
+    "static/css/main.1f0ebcb3.chunk.css",
+    "static/js/main.2420ede0.chunk.js"
   ]
 }
