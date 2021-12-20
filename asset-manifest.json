@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Codesolver/static/css/main.9f574ee2.chunk.css",
-    "main.js": "/Codesolver/static/js/main.bd435159.chunk.js",
-    "main.js.map": "/Codesolver/static/js/main.bd435159.chunk.js.map",
+    "main.js": "/Codesolver/static/js/main.e2ec7503.chunk.js",
+    "main.js.map": "/Codesolver/static/js/main.e2ec7503.chunk.js.map",
     "runtime-main.js": "/Codesolver/static/js/runtime-main.d1dd7d1a.js",
     "runtime-main.js.map": "/Codesolver/static/js/runtime-main.d1dd7d1a.js.map",
     "static/js/2.8fbbbf9e.chunk.js": "/Codesolver/static/js/2.8fbbbf9e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d1dd7d1a.js",
     "static/js/2.8fbbbf9e.chunk.js",
     "static/css/main.9f574ee2.chunk.css",
-    "static/js/main.bd435159.chunk.js"
+    "static/js/main.e2ec7503.chunk.js"
   ]
 }
