@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Codesolver/static/css/main.ad34fadd.chunk.css",
+    "main.css": "/Codesolver/static/css/main.d42e88b4.chunk.css",
     "main.js": "/Codesolver/static/js/main.e38eef05.chunk.js",
     "main.js.map": "/Codesolver/static/js/main.e38eef05.chunk.js.map",
     "runtime-main.js": "/Codesolver/static/js/runtime-main.d1dd7d1a.js",
@@ -8,13 +8,13 @@
     "static/js/2.bd29f870.chunk.js": "/Codesolver/static/js/2.bd29f870.chunk.js",
     "static/js/2.bd29f870.chunk.js.map": "/Codesolver/static/js/2.bd29f870.chunk.js.map",
     "index.html": "/Codesolver/index.html",
-    "static/css/main.ad34fadd.chunk.css.map": "/Codesolver/static/css/main.ad34fadd.chunk.css.map",
+    "static/css/main.d42e88b4.chunk.css.map": "/Codesolver/static/css/main.d42e88b4.chunk.css.map",
     "static/js/2.bd29f870.chunk.js.LICENSE.txt": "/Codesolver/static/js/2.bd29f870.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1dd7d1a.js",
     "static/js/2.bd29f870.chunk.js",
-    "static/css/main.ad34fadd.chunk.css",
+    "static/css/main.d42e88b4.chunk.css",
     "static/js/main.e38eef05.chunk.js"
   ]
 }
